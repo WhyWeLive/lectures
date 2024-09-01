@@ -8,6 +8,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Главная', link: '/' },
+      { text: 'Оценки', link: 'https://docs.google.com/spreadsheets/d/1xxeCTJi8izWnlL7Sj7V7IsI_seSdxxM_iuTFLYrecw8/edit?usp=sharing' },
     ],
 
     sidebar: [],
