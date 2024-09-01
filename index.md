@@ -1,6 +1,7 @@
 ---
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
+markdownStyles: true
 
 hero:
   name: "n.sitnik » lectures"
