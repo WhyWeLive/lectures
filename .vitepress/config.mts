@@ -16,5 +16,14 @@ export default defineConfig({
     socialLinks: [
       { icon: 'github', link: 'https://github.com/whywelive' }
     ]
+  },
+  markdown: {
+    container: {
+      tipLabel: 'Совет',
+      warningLabel: 'Предупреждение',
+      dangerLabel: 'Особое внимание',
+      infoLabel: 'Информация',
+      detailsLabel: 'Подробная информация'
+    }
   }
 })
